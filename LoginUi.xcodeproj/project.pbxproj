@@ -13,6 +13,15 @@
 		38C80EC8200662D4003E49D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EC7200662D4003E49D4 /* Assets.xcassets */; };
 		38C80ECB200662D4003E49D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EC9200662D4003E49D4 /* LaunchScreen.storyboard */; };
 		38C80ED6200662D4003E49D4 /* LoginUiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C80ED5200662D4003E49D4 /* LoginUiUITests.swift */; };
+		38C80EF8200692C3003E49D4 /* backround@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF0200692C3003E49D4 /* backround@3x.png */; };
+		38C80EF9200692C3003E49D4 /* LOGO@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF1200692C3003E49D4 /* LOGO@2x.png */; };
+		38C80EFA200692C3003E49D4 /* button-login@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF2200692C3003E49D4 /* button-login@3x.png */; };
+		38C80EFB200692C3003E49D4 /* LOGO@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF3200692C3003E49D4 /* LOGO@3x.png */; };
+		38C80EFC200692C3003E49D4 /* CARD-BCK@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF4200692C3003E49D4 /* CARD-BCK@3x.png */; };
+		38C80EFD200692C3003E49D4 /* button-login@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF5200692C3003E49D4 /* button-login@2x.png */; };
+		38C80EFE200692C3003E49D4 /* backround@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF6200692C3003E49D4 /* backround@2x.png */; };
+		38C80EFF200692C3003E49D4 /* CARD-BCK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38C80EF7200692C3003E49D4 /* CARD-BCK@2x.png */; };
+		38C80F032006A593003E49D4 /* LoginTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C80F022006A593003E49D4 /* LoginTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,15 @@
 		38C80ED1200662D4003E49D4 /* LoginUiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginUiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38C80ED5200662D4003E49D4 /* LoginUiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUiUITests.swift; sourceTree = "<group>"; };
 		38C80ED7200662D4003E49D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38C80EF0200692C3003E49D4 /* backround@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "backround@3x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/backround@3x.png"; sourceTree = "<group>"; };
+		38C80EF1200692C3003E49D4 /* LOGO@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "LOGO@2x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/LOGO@2x.png"; sourceTree = "<group>"; };
+		38C80EF2200692C3003E49D4 /* button-login@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "button-login@3x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/button-login@3x.png"; sourceTree = "<group>"; };
+		38C80EF3200692C3003E49D4 /* LOGO@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "LOGO@3x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/LOGO@3x.png"; sourceTree = "<group>"; };
+		38C80EF4200692C3003E49D4 /* CARD-BCK@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "CARD-BCK@3x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/CARD-BCK@3x.png"; sourceTree = "<group>"; };
+		38C80EF5200692C3003E49D4 /* button-login@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "button-login@2x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/button-login@2x.png"; sourceTree = "<group>"; };
+		38C80EF6200692C3003E49D4 /* backround@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "backround@2x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/backround@2x.png"; sourceTree = "<group>"; };
+		38C80EF7200692C3003E49D4 /* CARD-BCK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "CARD-BCK@2x.png"; path = "../../../../../Google Drive/00 web designer user interface/w-app/CARD-BCK@2x.png"; sourceTree = "<group>"; };
+		38C80F022006A593003E49D4 /* LoginTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,8 +95,17 @@
 		38C80EBF200662D4003E49D4 /* LoginUi */ = {
 			isa = PBXGroup;
 			children = (
+				38C80EF6200692C3003E49D4 /* backround@2x.png */,
+				38C80EF0200692C3003E49D4 /* backround@3x.png */,
+				38C80EF5200692C3003E49D4 /* button-login@2x.png */,
+				38C80EF2200692C3003E49D4 /* button-login@3x.png */,
+				38C80EF7200692C3003E49D4 /* CARD-BCK@2x.png */,
+				38C80EF4200692C3003E49D4 /* CARD-BCK@3x.png */,
+				38C80EF1200692C3003E49D4 /* LOGO@2x.png */,
+				38C80EF3200692C3003E49D4 /* LOGO@3x.png */,
 				38C80EC0200662D4003E49D4 /* AppDelegate.swift */,
 				38C80EC2200662D4003E49D4 /* ViewController.swift */,
+				38C80F022006A593003E49D4 /* LoginTextField.swift */,
 				38C80EC4200662D4003E49D4 /* Main.storyboard */,
 				38C80EC7200662D4003E49D4 /* Assets.xcassets */,
 				38C80EC9200662D4003E49D4 /* LaunchScreen.storyboard */,
@@ -179,9 +206,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38C80EFE200692C3003E49D4 /* backround@2x.png in Resources */,
+				38C80EFB200692C3003E49D4 /* LOGO@3x.png in Resources */,
 				38C80ECB200662D4003E49D4 /* LaunchScreen.storyboard in Resources */,
 				38C80EC8200662D4003E49D4 /* Assets.xcassets in Resources */,
+				38C80EF9200692C3003E49D4 /* LOGO@2x.png in Resources */,
+				38C80EFC200692C3003E49D4 /* CARD-BCK@3x.png in Resources */,
+				38C80EFF200692C3003E49D4 /* CARD-BCK@2x.png in Resources */,
+				38C80EFA200692C3003E49D4 /* button-login@3x.png in Resources */,
+				38C80EFD200692C3003E49D4 /* button-login@2x.png in Resources */,
 				38C80EC6200662D4003E49D4 /* Main.storyboard in Resources */,
+				38C80EF8200692C3003E49D4 /* backround@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38C80F032006A593003E49D4 /* LoginTextField.swift in Sources */,
 				38C80EC3200662D4003E49D4 /* ViewController.swift in Sources */,
 				38C80EC1200662D4003E49D4 /* AppDelegate.swift in Sources */,
 			);
